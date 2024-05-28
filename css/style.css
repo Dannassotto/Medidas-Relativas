@@ -200,20 +200,10 @@ html{
     margin-top: 34vw;
     margin-left: 2vw;
     text-align: left;
-    font: normal normal 2vw/37px Open Sans;
+    font: normal normal 2vw/3vw Open Sans;
     color: #000000;
     font-family: Arial, Helvetica, sans-serif;
 
-}
-.nombre3{
-    position: absolute;
-    margin-left: 23%;
-    margin-top: 45%;
-    text-align: left;
-    font: normal normal 600 40px/55px Open Sans;
-    color: #000000;
-    opacity: 1;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .nombre4{
     position: relative;
