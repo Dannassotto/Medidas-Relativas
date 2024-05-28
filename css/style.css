@@ -1,0 +1,323 @@
+html{
+    height: 1000%;
+}
+
+.TarjetaMetrolinea{
+    position:absolute;
+    margin-top: 5vw;
+    margin-left: 10vw;
+    width: 50vw;
+}
+.TarjetaMetrolineas{
+    position:absolute;
+    margin-top: 5.5vw;
+    margin-left: 24vw;
+    width: 35vw;
+}
+.Logo{
+    position: absolute;
+    margin-top: 1.5vw;
+    margin-left: 2vw;
+    width: 14vw;
+}
+.Logos{
+    position: absolute;
+    margin-top: -19vw;
+    margin-left: 2vw;
+    width: 14vw;
+}
+.barra{
+    margin-left: 80vw;
+    width: 5.75vw;
+}
+.barras{
+    margin-top: -21vw;
+    margin-left: 80vw;
+    width: 5.75vw;
+}
+
+.icon{
+    position:absolute;
+    margin-top: -40.8vw;
+    margin-left: 81.5vw;
+    width: 2vw;
+
+}
+.icon2{
+    position:absolute;
+    margin-top: -3vw;
+    margin-left: 81.5vw;
+    width: 2vw;
+}
+.carrito{
+    position:absolute;
+    margin-top: -40.5vw;
+    margin-left: 76vw;
+    width: 2vw;
+}
+.buscar{
+    position:absolute;
+    margin-top: -40.5vw;
+    margin-left: 68vw;
+    width: 2vw;
+}
+.Rectangle2{
+    position:absolute;
+    margin-top: -9vw;
+    margin-left: 70vw;
+    width: 9vw;
+}
+.Rectangles2{
+    position:absolute;
+    margin-top: -20vw;
+    left: 60vw;
+    width: 9vw;
+}
+.valor{
+    position:absolute;
+    margin-top: -34vw;
+    margin-left: 81vw;
+    font: normal normal normal 2vw/1vw Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+.Cantidad{
+    position:absolute;
+    margin-top: -34vw;
+    margin-left: 80vw;
+    font: normal normal normal 1.5vw/0.5vw Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.numero1{
+    position:absolute;
+    margin-top: -26vw;
+    margin-left: 82vw;
+    width: 2vw;
+    font: normal normal normal 1.5vw/0.5vw Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF80;
+    opacity: 1;
+    
+}
+.numero2{
+    position:absolute;
+    margin-top: -21vw;
+    margin-left: 82vw;
+    width: 2vw;
+    font: normal normal normal 1.5vw/0.5vw Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.numero3{
+    position:absolute;
+    margin-top: -16vw;
+    margin-left: 82vw;
+    width: 2vw;
+    font: normal normal normal 1.5vw/0.5vw Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF80;
+    opacity: 1;
+}
+.numeros1{
+    position:absolute;
+    margin-top: -26vw;
+    margin-left: 81vw;
+    width: 2vw;
+    font: normal normal normal 1.5vw/0.5vw Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF80;
+    opacity: 1;
+    
+}
+.numeros2{
+    position:absolute;
+    margin-top: -20vw;
+    margin-left: 81vw;
+    width: 2vw;
+    font: normal normal normal 1.5vw/0.5vw Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.numeros3{
+    position:absolute;
+    margin-top: -14vw;
+    margin-left: 81vw;
+    width: 2vw;
+    font: normal normal normal 1.5vw/0.5vw Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF80;
+    opacity: 1;
+}
+
+.recargar{
+    position: absolute;
+    top: 893px;
+    left: 1205px;
+    width: 112px;
+    height: 36px;
+    text-align: left;
+    font: normal normal 600 26px/36px Open Sans;
+    color: #000000;
+    opacity: 1;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.comprarR{
+    position: relative;
+    margin-top: -6vw;
+    left: 71vw;
+    font: normal normal 2vw/0.1 Open Sans;
+    color: #000000;
+    opacity: 1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mi-clase {
+    position: relative;
+    top: -7vw;
+    margin-left: 70vw;
+    width: 9vw; 
+    height: 2vw;
+}
+
+
+.nombre{
+    position: absolute;
+    margin-top: 10vw;
+    margin-left: 2vw;
+    text-align: left;
+    font: normal normal 3vw/45vw Open Sans;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nombre2{
+    position: absolute;
+    margin-top: 32vw;
+    margin-left: 2vw;
+    text-align: left;
+    font: normal normal 3vw/37px Open Sans;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.nombre3{
+    position: absolute;
+    margin-left: 23%;
+    margin-top: 45%;
+    text-align: left;
+    font: normal normal 600 40px/55px Open Sans;
+    color: #000000;
+    opacity: 1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nombre4{
+    position: relative;
+    left: 18vw;
+    top: 22vw;
+    text-align: left;
+    font: normal normal  3vw/5vw Open Sans;
+    color: #000000;
+    opacity: 1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.saldoActual{
+    position: relative;
+    left: 30vw;
+    top: 18vw;
+    text-align: left;
+    font: normal normal 90 2vw/5vw Open Sans;
+    color: #000000;
+    opacity: 1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.saldoEscogido{
+    position: relative;
+    left: 34vw;
+    top: 13vw;
+    text-align: left;
+    font: normal normal 90 2vw/5vw Open Sans;
+    color: #000000;
+    opacity: 1;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.precio{
+    position: absolute;
+    top: 32vw;
+    left: 30vw;
+    width: 22vw;
+    height: 4vw;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    opacity: 1;
+}
+.numPrecio{
+    position: relative;
+    top: -3.5vw;
+    left: 7vw;
+
+    font: normal normal 600 3vw/6vw Open Sans;
+    color: #000000;
+    opacity: 0.5;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.comprar{
+    position: absolute;
+    top: 2vw;
+    left: 40vw;
+    font-size:2vw;
+    text-align: left;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.vsaldo{
+    position: absolute;
+    top: -vw;
+    left: 17vw;
+    width: 22vw;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ctarjeta{
+    position: absolute;
+    top: -vw;
+    left: vw;
+    width: 22vw;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.line{
+    position: absolute;
+    top: 5vw;
+    left: 58.5vw;
+    width: 5vw;
+    border: 0.2vw #212020;
+    opacity: 1;
+}
+.lines{
+    position: absolute;
+    top: 5vw;
+    left: 41vw;
+    width: 13vw;
+    border: 0.2vw #212020;
+    opacity: 1;
+}
+.fondo{
+    position: relative;
+    margin: auto;
+    width: 80vw;
+    height: 41.667vw;
+    top: 15vh; 
+    background-color:#fff;
+}
+body{
+    background: linear-gradient(to bottom , #fff, #E6E6E6, #808080) ;
+}
